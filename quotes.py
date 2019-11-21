@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # My Quotes
 # Coded by Senja
-# Github: github.com/thesixtynine/Myquotes
+# Github: github.com/thedarksec/Quotes
 
 import os, sys, time, json
 try:
@@ -35,7 +35,7 @@ logo = """\033[0;1;77m
     _/      Y      \_
    // ~~ ~~ | ~~ ~  \\\\     \033[0m[\033[94;1m#\033[0m] My Quotes\033[0;77m
   // ~ ~ ~~ | ~~~ ~~ \\\    \033[0m[\033[93;1m*\033[0m] Coded Senja\033[0;77m
- //________.|.________\\\   \033[0m[\033[96;1m&\033[0m] My Github: @thesixtynine\033[0;77m
+ //________.|.________\\\   \033[0m[\033[96;1m&\033[0m] My Github: @thedarksec\033[0;77m
 `----------`-'----------'
 """
 
