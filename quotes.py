@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 # My Quotes
 # Coded by Senja
 # Github: github.com/thedarksec/Quotes
