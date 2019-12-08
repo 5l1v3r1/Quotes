@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # My Quotes
 # Coded by Senja
-# Github: github.com/thedarksec/Quotes
+# Github: github.com/stepbystepexe/Quotes
 
 import os, sys, time, json
 try:
