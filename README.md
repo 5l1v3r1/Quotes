@@ -1,6 +1,8 @@
-# Screenshot:
+<h1 align="center">My Quotes</h1>
+
+#### Screenshot:
 ![](./Screenshot.png)
-# Usage:
+#### Usage:
 ```
 pkg update && pkg upgrade
 apt-get install git
@@ -10,7 +12,7 @@ cd Quotes
 ls
 python2 quotes.py
 ```
-# Paypal:
+#### Paypal:
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
-# LiberaPay:
+#### LiberaPay:
 <noscript><a href="https://liberapay.com/stepbystepexe/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
