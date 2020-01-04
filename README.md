@@ -1,7 +1,7 @@
 <h1 align="center">My Quotes</h1>
 
 #### Screenshot:
-![](./Screenshot.png)
+<h>![](./Screenshot.png)</h>
 #### Usage:
 ```
 pkg update && pkg upgrade
