@@ -1,9 +1,8 @@
-#!/usr/bin/python
+#!/data/data/com.termux/files/usr/bin/python
 # -*- coding: utf-8 -*-
-# My Quotes
+# Quotes
 # Coded by Senja
-# Github: github.com/stepbystepexe/Quotes
-
+# Github: https://github.com/stepbystepexe/Quotes
 import os, sys, time, json
 try:
         import requests
@@ -28,18 +27,15 @@ except ConnectionError:
                 print ("\033[0m[\033[96;1m/\033[0m] \033[1;77mSelect \033[0m[Y/n]: \033[0m")
                 time.sleep(1)
                 os.sys.exit(1)
-
 from requests.exceptions import ConnectionError
-
 logo = """\033[0;1;77m
-      ______ ______        \033[0;100m Enjoy Yor Life \033[0m
+      ______ ______        \033[0;100;77;1m[=   Enjoy Yor Life   =]\033[0m
     _/      Y      \_
-   // ~~ ~~ | ~~ ~  \\\\     \033[0m[\033[94;1m#\033[0m] My Quotes\033[0;77m
-  // ~ ~ ~~ | ~~~ ~~ \\\    \033[0m[\033[93;1m*\033[0m] Coded Senja\033[0;77m
- //________.|.________\\\   \033[0m[\033[96;1m&\033[0m] My Github: @thedarksec\033[0;77m
+   // ~~ ~~ | ~~ ~  \\\\     \033[0m[\033[91;1m-\033[0m] My Quotes\033[0;77m
+  // ~ ~ ~~ | ~~~ ~~ \\\    \033[0m[\033[92;1m#\033[0m] Coded by Senja\033[0;77m
+ //________.|.________\\\   \033[0m[\033[94;1m*\033[0m] My Github: @stepbystepexe\033[0;77m
 `----------`-'----------'
 """
-
 def quotes():
         try:
                 os.system('clear')
@@ -72,5 +68,4 @@ def quotes():
                 print ("\033[0m[\033[91;1m!\033[0m] \033[1;77mNo connection network!\033[0m")
                 print
                 exit(1)
-
 quotes()
