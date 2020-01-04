@@ -1,5 +1,3 @@
-<h1 align="center">My Quotes</h1>
-
 #### Screenshot:
 ![](./Screenshot.png)
 #### Usage:
