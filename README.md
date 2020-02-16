@@ -1,14 +1,14 @@
 #### Screenshot:
-![](./Screenshoot.png)
+![](./Screenshot.png)
 #### Cara Menginstall:
 ```
 pkg update && pkg upgrade
 apt-get install git
-apt-get install python2
+apt-get install python
 git clone https://github.com/stepbystepexe/Quotes
 cd Quotes
 ls
-python2 quotes.py
+python quotes.py
 ```
 #### Paypal:
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
