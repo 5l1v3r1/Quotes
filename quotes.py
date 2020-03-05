@@ -4,7 +4,7 @@
 # Coded by Nedi Senja
 # Github: https://github.com/stepbystepexe/Quotes
 
-import os, sys, time, json
+import os, sys, time, random, json
 
 try:
         import requests
@@ -33,8 +33,7 @@ logo = """\033[0;1;77m
    // ~~ ~~ | ~~ ~  \\\\     \033[0m[\033[91;1m-\033[0m] My Quotes\033[0;77m
   // ~ ~ ~~ | ~~~ ~~ \\\    \033[0m[\033[92;1m#\033[0m] Coded by Nedi Senja\033[0;77m
  //________.|.________\\\   \033[0m[\033[94;1m*\033[0m] My Github: @stepbystepexe\033[0;77m
-`----------`-'----------'
-"""
+`----------`-'----------' """
 
 def start():
         try:
@@ -47,16 +46,10 @@ def start():
                 print("\033[0;1;77m")
                 msg = q["quote"]
                 auth = q["author"]
-                link = q["permalink"]
-                print(58*"_")
+                print('\033[0;96m'+msg)
                 print()
-                print(msg)
-                print(58*"_")
-                print()
-                print("\n\n\n")
-                print("\033[0m[\033[1;92m~\033[0m] \033[1;77mAuthor\033[0m "+auth)
-                print("\033[0m[\033[1;95m#\033[0m] \033[1;77mLink\033[0m "+link)
-                input("\n\033[0m[\033[1;93m*\033[0m] \033[1;77mTekan Enter: ")
+                print("\033[0m[\033[1;92m~\033[0m] \033[1;77mBy:\033[0m "+auth)
+                input("\n[ Tekan Enter ]")
                 start()
         except KeyboardInterrupt:
                 print()
