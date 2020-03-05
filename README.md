@@ -10,6 +10,9 @@ cd Quotes
 ls
 python quotes.py
 ```
+```
+pip install -r requirement.txt
+```
 #### Kontak:
 + Email d_q16x@outlook.co.id
 + WhatsApp +62 85775433901
