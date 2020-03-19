@@ -1,3 +1,5 @@
+# Quotes:
+*Kmpulan kata-kata seputar dunia IT*
 #### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
