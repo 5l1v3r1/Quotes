@@ -14,8 +14,8 @@ python quotes.py
 pip install -r requirement.txt
 ```
 #### Kontak:
-+ Email *d_q16x@outlook.co.id
-+ WhatsApp *https://tinyurl.com/wel4alo
++ Email d_q16x@outlook.co.id
++ WhatsApp https://tinyurl.com/wel4alo
 #### Paypal:
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
 #### LiberaPay:
