@@ -1,5 +1,5 @@
 # Quotes:
-*Quote adalah suatu kalimat atau ucapan yang dianggap menarik yang berisikan ide, pendapat atau gagasan seseorang*
+**```Quote```** adalah suatu kalimat atau ucapan yang dianggap menarik yang berisikan ide, pendapat atau gagasan seseorang.
 #### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
