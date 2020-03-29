@@ -2,7 +2,7 @@
 <h5 align="center">Quote adalah suatu kalimat atau ucapan yang dianggap menarik yang berisikan ide, pendapat atau gagasan seseorang.</h5>
 
 <p align="center">
-  <a href="www.python.org">
+  <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Language-Python-blue.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Quotes/blob/master/LICENSE">
